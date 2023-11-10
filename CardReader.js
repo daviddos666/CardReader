@@ -4,7 +4,7 @@
  *
  * Copyright @ 2009-2010 Jonathan Stoppani (http://garetjax.info/)
  * Licensed under the MIT license (see LICENSE for details)
- */
+ */;5859831037976940=99025010000044020?
 
 var CardReader = function (error_start, track_start, track_end, timeout) {
 	this.error_start = error_start || "é";
